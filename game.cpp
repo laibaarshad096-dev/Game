@@ -238,6 +238,6 @@ int main() {
 
     clearScreen();
     cout << "\n" << CYAN << BOLD
-         << "  Thanks for playing GUESS IT!\n\n" << RESET;
+         << "  Thanks for playing GUESS IT!!\n\n" << RESET;
     return 0;
 }
